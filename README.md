@@ -1,5 +1,4 @@
 # Ideate - A Data-Driven Club Management Platform
-### CS 3200 Final Project
 
 ## Overview
 Starting a product-development club at university comes with challenges, from recruiting members to managing projects and keeping all stakeholders informed. Ideate is a data-driven platform designed to streamline club management by centralizing information on projects, clients, and members. Our platform ensures that clubs can seamlessly connect with clients, work on impactful projects, and foster the professional growth of college students.
