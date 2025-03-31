@@ -2,7 +2,7 @@
 ### CS 3200 Final Project
 
 ## Overview
-Starting a student club at a college or university comes with challenges, from recruiting members to managing projects and keeping all stakeholders informed. Ideate is a data-driven platform designed to streamline club management by centralizing information on projects, clients, and members. Our platform ensures that clubs can seamlessly connect with clients, work on impactful projects, and foster the professional growth of college students.
+Starting a product-development club at university comes with challenges, from recruiting members to managing projects and keeping all stakeholders informed. Ideate is a data-driven platform designed to streamline club management by centralizing information on projects, clients, and members. Our platform ensures that clubs can seamlessly connect with clients, work on impactful projects, and foster the professional growth of college students.
 
 ## Key Features
 Ideate is tailored to support four key user groups:
@@ -27,7 +27,7 @@ The project follows a **three-tier architecture** running on Docker containers:
 ### Prerequisites
 Ensure you have the following installed:
 - Docker
-- Python (3.x)
+- Python
 - MySQL
 
 ### Steps to Run the Project
